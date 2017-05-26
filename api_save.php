@@ -5,6 +5,11 @@
  * @package  simple-mailing
  * @author   Luc Gerrits <luc.gerrits@orange.fr>
  */
+
+/*
+in construction
+*/
+
 /*
 include "include/config.php";
 
