@@ -1,6 +1,6 @@
 # simple-mailing
 Simple WEB UI to manage emails and contacts that works with Mongodb, PHP and Pear Mail Library.
-This WEB UI is supposted to be used only for admins/backend purposes. There is no password protection whatsoever !
+This WEB UI is supposted to be used only for admins/backend purposes:there is no password protection whatsoever.
 
 ## Note:
 - "include/config.php" need to be modified with your information before doing anything.
